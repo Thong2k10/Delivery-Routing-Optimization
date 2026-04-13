@@ -12,7 +12,7 @@
 | 1 | Vạn Trường Thành | 2354107 | thanh.van081205@hcmut.edu.vn | Quản lý hệ thống & Tích hợp |
 | 2 | [Tên thành viên 2] | [MSSV] | [Email] | Thuật toán Tìm kiếm ($A^*$) & CSP |
 | 3 | [Tên thành viên 3] | [MSSV] | [Email] | Học máy dự đoán chi phí |
-| 4 | [Tên thành viên 4] | [MSSV] | [Email] | Mạng Bayes & Logic tri thức |
+| 4 | Trần Nguyễn Nhất Thông | 2353149 | thong.tran2705@hcmut.edu.vn| Mạng Bayes & Logic tri thức |
 
 ## 🎯 Mục tiêu bài tập lớn
 Dự án này xây dựng một hệ thống Trí tuệ Nhân tạo tích hợp nhằm giải quyết bài toán "Tối ưu lộ trình xe giao hàng trong môi trường giao thông đô thị có yếu tố không chắc chắn (kẹt xe)". Hệ thống áp dụng 5 thành phần cốt lõi: Mạng Bayes, Học máy, Biểu diễn tri thức (Logic), Tìm kiếm Heuristic ($A^*$) và Thỏa mãn ràng buộc (CSP).
